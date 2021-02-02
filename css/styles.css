@@ -4,3 +4,7 @@ body{
 	color: #fff;
 	background: #f56f2f;
 }
+
+body p{
+	font-size: 30px;
+}
