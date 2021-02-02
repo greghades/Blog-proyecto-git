@@ -1,1 +1,3 @@
 Este es un verdadero mensaje de gregori a git
+
+Esta es la nueva version de mi archivo.txt
