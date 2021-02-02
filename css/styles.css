@@ -22,7 +22,28 @@ body{
 .container .post p{
 	font-size: 18px;
 }
-
+.container .header{
+	background: #fff;
+	margin-bottom: 25px;
+}
+.container .header ul{
+	margin: 0;
+}
+.container .header ul li{
+	display: inline-block;
+	margin: 0 15px;
+}
+.container .header ul li a{
+	color: #333;
+	text-decoration: none;
+	font-size: 18px;
+	display: block;
+	padding: 15px;
+}
+.container .header ul li a:hover{
+	background: #333;
+	color: #fff;
+}
 /*Formulario*/
 
 input[type="text"],input[type="email"]{
