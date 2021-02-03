@@ -78,7 +78,25 @@ input[type="submit"]{
 	background:#fff; 
 	cursor: pointer;
 }
-input[type="submit"]:hover{
+input[type="submit"]:hover,footer a:hover{
 	background: #333;
 	color: #fff;
+}
+footer{
+	background: #fff;
+    padding: 15px;
+    color: #333;
+}
+footer a{
+	padding: 15px;
+	font-size: 15px;
+	border-radius: 3px;
+	border: 1px solid #000;
+	background:#fff; 
+	cursor: pointer;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #333;
+    margin: 0 10px;
 }
