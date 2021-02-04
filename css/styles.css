@@ -99,4 +99,5 @@ footer a{
     text-decoration: none;
     color: #333;
     margin: 0 10px;
+    transition: background-color .15s ease-in-out,color .15s ease-in-out;
 }
